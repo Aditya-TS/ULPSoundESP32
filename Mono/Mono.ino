@@ -4,7 +4,7 @@
 #include <soc/rtc.h>
 #include <math.h>
 
-#include "sound.h"
+#include "Sound.h"
 
 // Connect speaker on pin 25
 
